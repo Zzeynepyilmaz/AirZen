@@ -34,6 +34,18 @@
 - **WorkManager** – Arka planda periyodik veri güncelleme
 - **AppWidgetProvider** – Ana ekran widget desteği
 - **StateFlow & ViewModel** – Modern durum yönetimi
+- 
+---
 
+## 📸 Ekran Görüntüleri
+
+### 🗺️ Genel Görünüm
+<img src="app/src/main/assets/screenshots/Screenshot_1.jpg" width="300"/>
+
+### ☁️ Hava Durumu Kartı
+<img src="app/src/main/assets/screenshots/Screenshot_2.jpg" width="300"/>
+
+### 📱 Ana Ekran Widget'ı
+<img src="app/src/main/assets/screenshots/Screenshot_3.jpg" width="300"/>
 
 
